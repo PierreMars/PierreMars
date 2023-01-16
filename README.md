@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AphroMad / @PierreMars / Pierre Marsaa / @pierre_mrsaaaa
+- This is my github all public account, every one of my project is explained here. The code is on my primary github account.
 - 📫 How to reach me : pierre.marsaa@icloud.com
 - Everything about me : https://oxyfoo.com/Pierre/
 - All my projects are explained here, take a look ! 
